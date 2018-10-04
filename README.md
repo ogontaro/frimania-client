@@ -1,7 +1,4 @@
-# frimania-client
-
-> Nuxt.js project
-
+# Frimania-client
 ## Build Setup
 
 ``` bash

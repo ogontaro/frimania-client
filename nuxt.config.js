@@ -1,11 +1,14 @@
 const pkg = require('./package')
 
 module.exports = {
+<<<<<<< HEAD
   mode: 'universal',
 
   /*
   ** Headers of the page
   */
+=======
+>>>>>>> aa5977f2afcda7db0599cfe9cbfd19fcd77f2615
   head: {
     title: pkg.name,
     meta: [
